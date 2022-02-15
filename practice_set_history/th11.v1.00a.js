@@ -62,15 +62,15 @@
 			"access": "wre"
 		},
 		"Select_tracked_spell": {
-			"code": "50 A1 <codecave:dinput8_handle> 8A 80 8D 02 03 00 3C 80 58 0F 85 43 00 00 00 50 53 A1 <codecave:base_tsa_spell_real> A3 <codecave:Tracked_spell> C7 05 <codecave:Set_captures> 00 00 00 00 C7 05 <codecave:Set_attempts> 00 00 00 00 8B 1D 20 57 4A 00 89 1D <codecave:Set_difficulty> 8B 1D 10 57 4A 00 6B DB 03 03 1D 14 57 4A 00 89 1D <codecave:Set_shottype> 5B 58 C3",
+			"code": "50 A1 <codecave:dinput8_handle> 8A 80 8D 02 03 00 3C 80 58 0F 85 37 00 00 00 50 53 A1 <codecave:base_tsa_spell_real> A3 <codecave:Tracked_spell> C7 05 <codecave:Set_captures> 00 00 00 00 C7 05 <codecave:Set_attempts> 00 00 00 00 8B 1D 10 57 4A 00 6B DB 03 03 1D 14 57 4A 00 89 1D <codecave:Set_shottype> 5B 58 C3",
 			"access": "wre"
 		},
 		"Update_set_attempts": {
-			"code": "89 91 84 00 00 00 50 53 A1 <codecave:base_tsa_spell_real> 39 05 <codecave:Tracked_spell> 0F 85 31 00 00 00 A1 20 57 4A 00 39 05 <codecave:Set_difficulty> 0F 85 20 00 00 00 A1 10 57 4A 00 6B C0 03 03 05 14 57 4A 00 39 05 <codecave:Set_shottype> 0F 85 06 00 00 00 FF 05 <codecave:Set_attempts> 5B 58 C3",
+			"code": "89 91 84 00 00 00 50 53 A1 <codecave:base_tsa_spell_real> 39 05 <codecave:Tracked_spell> 0F 85 25 00 00 00 A1 20 57 4A 00 A1 10 57 4A 00 6B C0 03 03 05 14 57 4A 00 39 05 <codecave:Set_shottype> 0F 85 06 00 00 00 FF 05 <codecave:Set_attempts> 5B 58 C3",
 			"access": "wre"
 		},
 		"Update_set_captures": {
-			"code": "89 88 80 00 00 00 50 53 A1 <codecave:base_tsa_spell_real> 39 05 <codecave:Tracked_spell> 0F 85 31 00 00 00 A1 20 57 4A 00 39 05 <codecave:Set_difficulty> 0F 85 20 00 00 00 A1 10 57 4A 00 6B C0 03 03 05 14 57 4A 00 39 05 <codecave:Set_shottype> 0F 85 06 00 00 00 FF 05 <codecave:Set_captures> 5B 58 C3",
+			"code": "89 88 80 00 00 00 50 53 A1 <codecave:base_tsa_spell_real> 39 05 <codecave:Tracked_spell> 0F 85 25 00 00 00 A1 20 57 4A 00 A1 10 57 4A 00 6B C0 03 03 05 14 57 4A 00 39 05 <codecave:Set_shottype> 0F 85 06 00 00 00 FF 05 <codecave:Set_captures> 5B 58 C3",
 			"access": "wre"
 		},
 		"Get_thcrap_spell_id": {

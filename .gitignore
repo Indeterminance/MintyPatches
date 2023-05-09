@@ -1,1 +1,4 @@
 *.py
+*.asm
+test.js
+personal_practice/

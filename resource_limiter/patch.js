@@ -4,4 +4,7 @@
 	"dependencies": [
 		"nmlgc/base_tsa"
 	]
+	"servers": [
+		"https://raw.githubusercontent.com/Indeterminance/MintyPatches/main/resource_limiter/"
+	],
 }

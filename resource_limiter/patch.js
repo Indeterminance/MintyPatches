@@ -1,4 +1,5 @@
 {
+	"contact": "Indeterminance#3373",
 	"id": "resource_limiter",
 	"title": "A patch to help restrict resource usage.",
 	"dependencies": [

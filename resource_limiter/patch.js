@@ -5,8 +5,8 @@
 	"dependencies": [
 		"nmlgc/base_tsa"
 	],
-		"servers": [
-			"https://mirrors.thpatch.net/MintyPatches/resource_limiter/",
+	"servers": [
+		"https://mirrors.thpatch.net/mintymods/resource_limiter/",
 		"https://raw.githubusercontent.com/Indeterminance/MintyPatches/main/resource_limiter/"
 	]
 }

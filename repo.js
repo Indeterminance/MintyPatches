@@ -6,7 +6,7 @@
 		"blemishes": "A patch that solely changes Overwhelming Blemishes on Hard difficulty, since it clearly isn't overwhelming enough. "
 	},
 	"servers": [
-		"https://mirrors.thpatch.net/MintyPatches/",
+		"https://mirrors.thpatch.net/mintymods/",
 		"https://raw.githubusercontent.com/Indeterminance/MintyPatches/main/"
 	],
 	"title": "Mints' Semi-Functional Patch Repository"

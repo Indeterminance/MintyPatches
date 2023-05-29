@@ -43,7 +43,7 @@
         },
         "skip_life_fragments": {
             "access": "wre",
-            "code": "50 // 53 // 51 // 8B 1D <codecave:extends_remain> // 83 FB 00 // 0F 84 08 00 00 00 // 40 // B9 54 74 4E 00 // 89 01 // 59 // 5B // 58 // C3"
+            "code": "50 // 53 // 51 // 8B 1D <codecave:extends_remain> // 83 FB 00 // 0F 84 08 00 00 00 // B9 54 74 4E 00 // 89 01 // 59 // 5B // 58 // C3"
         },
         "treat_as_max_lives": {
             "access": "wre",

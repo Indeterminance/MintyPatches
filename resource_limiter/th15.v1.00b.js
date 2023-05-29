@@ -23,8 +23,8 @@
         },
         "lifefrag_skip": {
             "addr": "0x44FA95",
-            "code": "E8 [codecave:skip_life_fragments]",
-            "expected": "A3 54 74 4E 00"
+            "code": "E8 [codecave:skip_life_fragments] 83 3D 10 74 4E 00 04",
+            "expected": "83 3D 10 74 4E 00 04 A3 54 74 4E 00"
         },
         "treat_as_ml": {
             "addr": "0x44FA68",

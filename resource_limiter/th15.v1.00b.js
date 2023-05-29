@@ -51,7 +51,7 @@
         },
         "update_lives": {
             "access": "wre",
-            "code": "53 // 51 // 52 // 8B 1D <codecave:extends_remain> // 83 FB 00 // 0F 84 10 00 00 00 // BA 50 74 4E 00 // 41 // 4B // 89 1D <codecave:extends_remain> // 89 0A // 5A // 59 // 5B // C3"
+            "code": "53 // 51 // 52 // 8B 1D <codecave:extends_remain> // 83 FB 00 // 0F 84 0F 00 00 00 // BA 50 74 4E 00 // 4B // 89 1D <codecave:extends_remain> // 89 0A // 5A // 59 // 5B // C3"
         }
     }
 }

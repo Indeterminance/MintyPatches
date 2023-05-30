@@ -24,7 +24,8 @@
         "lifefrag_skip": {
             "addr": "0x44FA95",
             "code": "E8 [codecave:skip_life_fragments] 83 3D 10 74 4E 00 04",
-            "expected": "83 3D 10 74 4E 00 04 A3 54 74 4E 00"
+            "expected": "83 3D 10 74 4E 00 04 A3 54 74 4E 00",
+            "ignore": 1
         },
         "treat_as_ml": {
             "addr": "0x44FA68",
@@ -51,7 +52,7 @@
         },
         "update_lives": {
             "access": "wre",
-            "code": "53 // 51 // 52 // 8B 1D <codecave:extends_remain> // 83 FB 00 // 0F 84 10 00 00 00 // BA 50 74 4E 00 // 41 // 4B // 89 1D <codecave:extends_remain> // 89 0A // 5A // 59 // 5B // C3"
+            "code": "53 // 51 // 52 // 8B 1D <codecave:extends_remain> // 83 FB 00 // 0F 84 0F 00 00 00 // BA 50 74 4E 00 // 4B // 89 1D <codecave:extends_remain> // 89 0A // 5A // 59 // 5B // C3"
         }
     }
 }

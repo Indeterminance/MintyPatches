@@ -9,7 +9,7 @@
     "options": {
         "max_miss_count": {
             "type": "i32",
-            "value": "0xFF"
+            "value": 256
         }
     }
 }

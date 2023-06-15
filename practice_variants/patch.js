@@ -1,9 +1,9 @@
 {
   "contact": "Indeterminance#3373",
-  "id": "blemishes",
-  "title": "A small change for Overflowing Blemishes to adjust the difficulty more in line with \"Hard\".",
+  "id": "practice_variants",
+  "title": "Various changes to patterns to facilitate efficient practice.",
   "servers": [
-      "https://mirrors.thpatch.net/mintymods/blemishes/",
-      "https://raw.githubusercontent.com/Indeterminance/MintyPatches/main/blemishes"
+      "https://mirrors.thpatch.net/mintymods/practice_variants/",
+      "https://raw.githubusercontent.com/Indeterminance/MintyPatches/main/practice_variants"
   ]
 }
